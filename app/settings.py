@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-j2u5#xcq8oh($+9v&1i9vte+d@d27gd@i(!d+mm5h&qx5kub4-'
 
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['api-clima-ghu2.onrender.com']
 
